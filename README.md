@@ -31,11 +31,8 @@
 
 ## 🤖 Reach me
 
-[![](https://img.shields.io/badge/dynamic/json?color=da282a&label=github&query=%24.data.totalSubs&suffix= fans&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzglgithubx)](https://github.com/zglgithubx)
-
 <a href='mailto:1846015350_at_qq.com'><img src='https://img.shields.io/badge/-15036934261@163.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438'/></a> 
 <br>
-
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/zglgithubx/zglgithubx/assets/github-contribution-grid-snake.svg" /></div>
 
 
